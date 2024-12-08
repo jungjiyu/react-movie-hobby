@@ -1,17 +1,21 @@
-## My Hobby-React Web Page
+# 🔥My fav Movies🔥
+- 2024 웹서버프로그래밍 리액트를 활용한 취미 데이터 과제
+- 리액트를 활용하여 내 최애 영화들을 소개하는 UI 제작
 
+---
+# 🔎 페이지 구성
+![image](https://github.com/user-attachments/assets/80c6b98a-231b-4539-be50-355be3135061)
+![image](https://github.com/user-attachments/assets/1e2bc586-4ecf-49a6-9300-923d2a590df3)
 
-![home_](https://user-images.githubusercontent.com/35041156/49167642-caf05680-f303-11e8-8fed-5f0977ec07a6.png)
-![contact](https://user-images.githubusercontent.com/35041156/49167644-caf05680-f303-11e8-89e3-5bdf3bff167e.png)
-![services](https://user-images.githubusercontent.com/35041156/49167645-caf05680-f303-11e8-9565-9dcef3b85f08.png)
-![about](https://user-images.githubusercontent.com/35041156/49167646-caf05680-f303-11e8-9104-703b36a0426c.png)
-
-
-
+![image](https://github.com/user-attachments/assets/419edacc-4d8e-4502-81af-b82679ea32ab)
+![image](https://github.com/user-attachments/assets/438f72b3-ee5c-4314-b5eb-da804c79efea)
+![image](https://github.com/user-attachments/assets/5cab456f-df2b-4849-9065-5c3176976d18)
+---
+# ✅ Project Info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -48,7 +52,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
